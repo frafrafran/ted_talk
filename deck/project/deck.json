@@ -1,0 +1,20 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-10-14T12:00:00Z"},
+  "lists": "css",
+  "title": "The Movie Plays in Your Head First",
+  "order": ["cover", "hook", "thesis", "mind", "door", "time", "lost", "imagination", "fair", "verdict", "challenge", "close"],
+  "sections": {
+    "open": {"description": "Hook and thesis: the book is better, for three reasons.", "start": "cover"},
+    "p1": {"description": "Point I: a book takes you inside Harry's mind.", "start": "mind"},
+    "p2": {"description": "Point II: a book has time, so characters have depth.", "start": "time"},
+    "p3": {"description": "Point III: the reader builds the world.", "start": "imagination"},
+    "counter": {"description": "Counterargument: what the film does best.", "start": "fair"},
+    "end": {"description": "Verdict, challenge and closing line.", "start": "verdict"}
+  },
+  "faces": {
+    "cinzel": {"family": "Cinzel", "href": "https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap"},
+    "eb-garamond": {"family": "EB Garamond", "href": "https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap"}
+  },
+  "designSystems": []
+}
