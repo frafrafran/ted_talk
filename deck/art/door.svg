@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="480" viewBox="0 0 360 480">
+<defs>
+<linearGradient id="light" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFE7A8"/><stop offset="1" stop-color="#F4C766"/></linearGradient>
+<linearGradient id="spill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F4C766" stop-opacity="0.6"/><stop offset="1" stop-color="#F4C766" stop-opacity="0"/></linearGradient>
+</defs>
+<path d="M60 420 L60 180 A120 120 0 0 1 300 180 L300 420 Z" fill="url(#light)"/>
+<polygon points="60,420 300,420 360,480 0,480" fill="url(#spill)"/>
+<path d="M60 420 L60 180 Q60 92 132 66 L196 104 L196 452 Z" fill="#4A1019"/>
+<g fill="none" stroke="#8A2A36" stroke-width="5"><path d="M84 200 L84 300 L172 318 L172 214 Z"/><path d="M84 330 L84 410 L172 432 L172 346 Z"/></g>
+<circle cx="176" cy="300" r="8" fill="#E3C27A"/>
+<path d="M60 420 L60 180 A120 120 0 0 1 300 180 L300 420" fill="none" stroke="#E3C27A" stroke-width="8"/>
+</svg>

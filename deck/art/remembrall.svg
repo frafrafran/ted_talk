@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" viewBox="0 0 480 300">
+<defs>
+<radialGradient id="bg" cx="0.5" cy="0.45" r="0.7"><stop offset="0" stop-color="#2A3158"/><stop offset="1" stop-color="#11162B"/></radialGradient>
+<radialGradient id="glass" cx="0.4" cy="0.35" r="0.7"><stop offset="0" stop-color="#E9EEF8" stop-opacity="0.55"/><stop offset="0.6" stop-color="#9FB2D6" stop-opacity="0.25"/><stop offset="1" stop-color="#5A6A96" stop-opacity="0.45"/></radialGradient>
+<radialGradient id="smoke" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#D14A5C" stop-opacity="0.9"/><stop offset="1" stop-color="#D14A5C" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="480" height="300" fill="url(#bg)"/>
+<ellipse cx="240" cy="262" rx="90" ry="14" fill="#0A0D1A" opacity="0.7"/>
+<circle cx="240" cy="146" r="104" fill="#1A2244"/>
+<circle cx="226" cy="160" r="54" fill="url(#smoke)"/>
+<circle cx="262" cy="130" r="40" fill="url(#smoke)"/>
+<circle cx="240" cy="146" r="104" fill="url(#glass)"/>
+<circle cx="240" cy="146" r="104" fill="none" stroke="#C9D4EC" stroke-width="3" opacity="0.7"/>
+<ellipse cx="200" cy="96" rx="30" ry="16" fill="#FFFFFF" opacity="0.45" transform="rotate(-30 200 96)"/>
+<path d="M170 236 Q240 270 310 236 L300 256 Q240 284 180 256 Z" fill="#C9A24A"/>
+<g fill="#E3C27A"><circle cx="80" cy="60" r="3"/><circle cx="400" cy="80" r="3"/><circle cx="410" cy="230" r="2.5"/></g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200">
+<rect x="0" y="10" width="640" height="180" rx="6" fill="#1A2034"/>
+<g fill="#0F1322">
+<rect x="14" y="22" width="22" height="16" rx="3"/><rect x="62" y="22" width="22" height="16" rx="3"/><rect x="110" y="22" width="22" height="16" rx="3"/><rect x="158" y="22" width="22" height="16" rx="3"/><rect x="206" y="22" width="22" height="16" rx="3"/><rect x="254" y="22" width="22" height="16" rx="3"/><rect x="302" y="22" width="22" height="16" rx="3"/><rect x="350" y="22" width="22" height="16" rx="3"/><rect x="398" y="22" width="22" height="16" rx="3"/><rect x="446" y="22" width="22" height="16" rx="3"/><rect x="494" y="22" width="22" height="16" rx="3"/><rect x="542" y="22" width="22" height="16" rx="3"/><rect x="590" y="22" width="22" height="16" rx="3"/>
+<rect x="14" y="162" width="22" height="16" rx="3"/><rect x="62" y="162" width="22" height="16" rx="3"/><rect x="110" y="162" width="22" height="16" rx="3"/><rect x="158" y="162" width="22" height="16" rx="3"/><rect x="206" y="162" width="22" height="16" rx="3"/><rect x="254" y="162" width="22" height="16" rx="3"/><rect x="302" y="162" width="22" height="16" rx="3"/><rect x="350" y="162" width="22" height="16" rx="3"/><rect x="398" y="162" width="22" height="16" rx="3"/><rect x="446" y="162" width="22" height="16" rx="3"/><rect x="494" y="162" width="22" height="16" rx="3"/><rect x="542" y="162" width="22" height="16" rx="3"/><rect x="590" y="162" width="22" height="16" rx="3"/>
+</g>
+<g fill="#2A3158" stroke="#C9A24A" stroke-width="2">
+<rect x="16" y="50" width="140" height="100" rx="4"/><rect x="172" y="50" width="140" height="100" rx="4"/><rect x="328" y="50" width="140" height="100" rx="4"/><rect x="484" y="50" width="140" height="100" rx="4"/>
+</g>
+<g fill="#0A0D1A">
+<path d="M40 150 L60 112 L72 124 L86 96 L104 128 L116 116 L132 150 Z"/>
+<path d="M196 150 L216 108 L230 122 L244 92 L262 126 L274 114 L288 150 Z"/>
+<path d="M352 150 L372 104 L386 118 L400 88 L418 122 L430 110 L444 150 Z"/>
+<path d="M508 150 L528 100 L542 114 L556 84 L574 118 L586 106 L600 150 Z"/>
+</g>
+<g fill="#F4C766"><rect x="84" y="112" width="4" height="7"/><rect x="242" y="108" width="4" height="7"/><rect x="398" y="104" width="4" height="7"/><rect x="554" y="100" width="4" height="7"/></g>
+</svg>
